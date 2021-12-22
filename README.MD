@@ -1,6 +1,6 @@
 # Garnet Engine
 
-A small project game engine using OpenGL/GLFW dor building dynamic simulation/god game/mangement games. It roughly follows the GameObject/Component paradigm of Unity Engine.
+A small project game engine using OpenGL/GLFW for building dynamic simulation/god game/mangement games. It roughly follows the GameObject/Component paradigm of Unity Engine.
 
 Right now, it supports:
 * Custom meshes, shaders, materials.
